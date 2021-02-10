@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://camilavalentim.github.io/my_portfolio/](https://camilavalentim.github.io/my_portfolio/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/camila-valentim/**
-
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612906578505.png />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/camilavalentim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="camilavalentim" height="30" width="40" /></a>
