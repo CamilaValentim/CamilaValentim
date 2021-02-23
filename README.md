@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila Valentim</h1>
-<h3 align="center">A passionate Full Stack developer from Brazil</h3>
+<h3 align="center"> Full Stack developer from Brazil</h3>
 <img align="right" src="eu.png" alt="camilavalentim" align="left" width="400" />
 
 - 🌱 I’m currently learning **React,Redux,ContextAPI**
