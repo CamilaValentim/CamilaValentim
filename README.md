@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Camila Valentim</h1>
-<h3 align="center"> Full Stack developer from Brazil</h3>
+<h3 align="center">Desenvolvedora Backend</h3>
 <img align="right" src="eu.png" alt="camilavalentim" align="left" width="400" />
 
-- 🌱 I’m currently learning **React,Redux,ContextAPI**
+
 
 - 👨‍💻 All of my projects are available at [https://camilavalentim.github.io/my_portfolio/](https://camilavalentim.github.io/my_portfolio/)
 
